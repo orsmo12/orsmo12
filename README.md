@@ -10,7 +10,7 @@ I'm finishing my B.Sc. in Computer Science at HIT, and I build **LLM agents**, *
 | [**Defect Detection**](https://github.com/orsmo12/defect-detection-image-processing) | Visual inspection of a remote control with classical image processing; 96.2% accuracy on the core test set | Python · OpenCV · NumPy · Pandas |
 | [**Blackjack Robot**](https://github.com/orsmo12/BLACKJACK-bot) | A humanoid robot that plays Blackjack: real-time YOLO card detection, Basic Strategy decisions, spoken explanations and gestures (team project) | Python · YOLO · OpenCV · PySerial |
 | [**Home Poker**](https://github.com/orsmo12/home-poker) | Offline-first app for home poker nights: buy-ins, settling debts with the fewest transfers, live view for friends · [live](https://home-poker-il.netlify.app) | React · Vite · Supabase · Web Push |
-| [**AI Smart Crosswalk**](https://github.com/orsmo12/AI_Smart_Crosswalk) | Detects at-risk pedestrians and alerts drivers through LED road signs; I built the live dispatcher views (team of 5) | React · Socket.IO · Node.js · YOLOv8 |
+| [**AI Smart Crosswalk**](https://github.com/orsmo12/AI_Smart_Crosswalk) | Detects at-risk pedestrians and alerts drivers through LED road signs; I led the React frontend (role-based dashboards, live map, real-time alerts) and contributed to the backend (team of 5) | React · Leaflet · Socket.IO · Node.js · YOLOv8 |
 | [**Portal Shoot**](https://github.com/orsmo12/portal-shoot) | A physics puzzle game for phones with procedurally generated levels · [play](https://portal-shoot.netlify.app) | JavaScript · Canvas · PWA |
 
 **Tech I work with**
@@ -19,4 +19,4 @@ Python · JavaScript / TypeScript · SQL · Java · C++
 LLM APIs & agents · prompt engineering · YOLO · OpenCV · TensorFlow / Keras
 React · Next.js · FastAPI · PostgreSQL (Supabase) · GitHub Actions · Vercel · Git · Linux
 
-**Contact:** [or.smolarchik@gmail.com](mailto:or.smolarchik@gmail.com)
+**Contact:** [or.smolarchik@gmail.com](mailto:or.smolarchik@gmail.com) · [LinkedIn](https://www.linkedin.com/in/or-smolarchik-a8891a33b/)
