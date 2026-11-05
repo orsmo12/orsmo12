@@ -1,6 +1,6 @@
 ### Hi, I'm Or Smolarchik
 
-I'm finishing my B.Sc. in Computer Science at HIT, and I build **LLM agents**, **computer-vision pipelines** and **full-stack apps**. Based in Tel Aviv. Before tech I served as an IDF logistics officer and deputy company commander, and I still serve in that role on reserve duty.
+I'm finishing my B.Sc. in Computer Science at HIT, and I build **LLM agents**, **computer-vision pipelines** and **full-stack apps**. Based in Givatayim. Before tech I served as an IDF logistics officer and deputy company commander, and I still serve in that role on reserve duty.
 
 **Projects**
 
